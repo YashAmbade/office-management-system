@@ -1,0 +1,2 @@
+[22-Sep-2026 11:54:39 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Livewire\GmbChecklistGrid::$newClientName in /home4/midbrkhy/manage.midbrains.in/app/Livewire/GmbChecklistGrid.php on line 27
+[22-Sep-2026 14:01:22 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Livewire\Dashboard::myTasksCount() in /home4/midbrkhy/manage.midbrains.in/app/Livewire/Dashboard.php on line 117
